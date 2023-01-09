@@ -69,10 +69,10 @@ Research case study: anomaly detection [[slides]](https://docs.google.com/presen
 ## Labs
 
 ### Lab 1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab1.ipynb)
-August 22, 2022 - Python, Numpy, and Pandas refresher
+January 10, 2023 - Python, Numpy, and Pandas refresher
 
 ### Lab 2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab2.ipynb)
-August 24, 2022 - Exploring, describing, visualizing, and cleaning datasets
+January 12, 2023 - Exploring, describing, visualizing, and cleaning datasets
 
 <!-- ### Lab 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab3.ipynb)
 August 29, 2022 - Dataset preparation (sampling, splitting, and scaling)
