@@ -77,10 +77,10 @@ January 12, 2023 - Exploring, describing, visualizing, and cleaning datasets
 ### Lab 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab3.ipynb)
 January 17, 2023 - Dataset preparation (sampling, splitting, and scaling)
 
-<!-- 
-### Lab 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab4.ipynb)
-September 12, 2022 - Classification (k nearest neighbors, decision trees, and random forests)
+### Lab 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab4.ipynb)
+January 19, 2023 - Classification (k nearest neighbors)
 
+<!-- 
 ### Lab 5 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab5.ipynb)
 September 14, 2022 - Naive Bayes classifier
 
