@@ -80,10 +80,10 @@ January 17, 2023 - Dataset preparation (sampling, splitting, and scaling)
 ### Lab 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab4.ipynb)
 January 19, 2023 - Classification (k nearest neighbors)
 
-<!-- 
-### Lab 5 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab5.ipynb)
-September 14, 2022 - Naive Bayes classifier
+### Lab 5 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab5.ipynb)
+January 24, 2023 - Tree-based classifiers
 
+<!-- 
 ### Lab 6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab6.ipynb)
 September 19, 2022 - Support vector machines
 
