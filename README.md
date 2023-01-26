@@ -83,10 +83,10 @@ January 19, 2023 - Classification (k nearest neighbors)
 ### Lab 5 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab5.ipynb)
 January 24, 2023 - Tree-based classifiers
 
-<!-- 
-### Lab 6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab6.ipynb)
-September 19, 2022 - Support vector machines
+### Lab 6 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab6.ipynb)
+January 26, 2023 - Naive Bayes classifier
 
+<!-- 
 ### Lab 7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab7.ipynb)
 September 21, 2022 - Logistic regression
 
