@@ -90,7 +90,7 @@ January 26, 2023 - Naive Bayes classifier
 ### Lab 7 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab7.ipynb)
 February 7, 2023 - Support vector machines
 
-### Lab 8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab8.ipynb)
+### Lab 8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab8.ipynb)
 February 9, 2023 - Logistic regression
 
 <!-- 
