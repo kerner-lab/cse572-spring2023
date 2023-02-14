@@ -93,9 +93,10 @@ February 7, 2023 - Support vector machines
 ### Lab 8 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab8.ipynb)
 February 9, 2023 - Logistic regression
 
+### Lab 9 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-spring2023/blob/main/labs/CSE572-Lab9.ipynb)
+February 14, 2023 - Neural networks
+
 <!-- 
-### Lab 9 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab9.ipynb)
-September 28, 2022 - Ensemble methods
 
 ### Lab 10 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kerner-lab/cse572-fall2022/blob/main/labs/CSE572-Lab10.ipynb)
 October 3, 2022 - Model selection
